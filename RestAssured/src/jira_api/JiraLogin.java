@@ -1,4 +1,5 @@
 package jira_api;
+package jira_api;
 
 public class JiraLogin {
 

@@ -62,7 +62,7 @@ public class Oauth {
 
 		System.out.println(response);
 System.out.println("kulchi");
-System.out.println("kulchi1");
+System.out.println("kulchi3");
 	}
 
 }
